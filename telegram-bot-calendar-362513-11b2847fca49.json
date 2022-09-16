@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telegram-bot-calendar-362513",
+  "private_key_id": "11b2847fca49f3ec265135925e2b766382f3b0b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3EikGa1TVxz58\naweiUoOIxD7H7lC2ZvJu/5edRwYkrdbPQOjOoN+YBp9CWi0C0+KScz8mJFLrn1YZ\nqmXRxv7BS3fV7JSrCJbffp6HkJK2yYm/BMAyoiAdu8+tusCkt2bSl47S5+ZGq0qo\nhpKKs0aOJoBNYxQU4y30E8KYPYeSOPDdcL6YkU5mg/CFwSzTaDWT/kKK7Zk4g4As\nuzkowPCrVXlHid7PHO8SJ+eOKk0WmUw6c/Q2x70ecElZwEnFQVClpwiruDHfjfQU\nsvt4diZ6tyyzfWYPIpmDOiqHbecwuC4tod55ACevS0opVTTL79tqwRaiz8vumvjK\nUZRarlljAgMBAAECggEAI7X3KrllIw5qsfpu0sslvVgKpxVlyS7ru5tAB/4CxMTk\nUilnQGdBNnaUOm08uoB6gfbZKqeLRUsfkIIcun8G0s3V4nTzyykxxQb+BZO+Csnl\nhM14cGgPu70XFdyIF5lvBUVrJtj1onNnbNhTXZr6+F+qR248TJbEMAhqvSfDelIr\nsPAhonhm/+bJ7m8dzLLwLAAJbfzYD0FOjf5Dyg5U0hx8pL3uPWRJ/SAMQcld99VH\nzWSplQX9kRt/5euWBnseZ7RCCkFbp7i1G9Sv9u1jqdDBqPYEfxx3lW+9/gByFNUM\nKWFr8Y5WbmwdkC0NtTjf55K9KlAek4ZEWNFcXj6CAQKBgQD8urSThV+jWaZTP1BT\n+3BDaOgHAlPZvNXQDFuEcxpWoNoS3XT935zYxDp+fqf2slRKEhabxkBxxmGYRKoG\nnmL1wALYlMN2N02S7G9wF+DgwoWSWXoB46jLjAUaOrv/oFumYisJTJ3N3BsahxfW\nR6qQn2+uix5htpS7kUWa+rGWcQKBgQC5cK0O09/GwkGz60QQ/1zvTlOkBhJq+bqM\nQXBUvkJWv3tszDuWYDsNoBG/iC//3AjHyo7eLEqvzr6SS6U9++l4o0PfYOaEXdTJ\n1l2Uwbep3E99pDFCbNF10UDZjmiH+pd22FQfcliUM+Xu/LNRp7QMTqEXaSEOguau\nqbakzBCfEwKBgG8EwVBQdXu3ZQYKuQm7WUxzaAG0NwteFXqoAwfC3F4TmNhSqhLf\nyPG7+YoZr0UCf15uZboWM7cHE1YlS59OsmAL8fQcHWTv1EbnT+ioxKNXL//jCGKO\nFFcd8hvckzsuwTPsycTzABsvRkS39XOu1bFkKFY/TKBV6S4gGbiDycExAoGAE0cY\nZos2HzaAmBCkIdQ6OBJ/dXTAI2jUsNH4uIaS5OvBC/1rUGWuner/DVc+Di40p3hy\nQ7x9AyvN+e1tPzVZ/xWR773mGOqcPWNQlS9SRZFGnjwcdthTKhlX0YYRbdlqN4uj\nqyU6+iUvCRoyFhIGEKV377QZIKYRDyVLfHROYgsCgYEA8EY1iQayiK7eKx4XmSyx\n9cso0yfU7EskG30kKls9WH9oxXuAZjmvzuFqunbFOQmLKKW9IlbrZZpUv1F4WjSe\nxIesMUmfa/LHKnRjeMLCJvaMtQIhWE5N0ku1JFIotnw8dRQDzuVLiyXZroKdUEPq\n1IUPy8sHHD/Sxc7uJ2zkN6U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendar-reminder@telegram-bot-calendar-362513.iam.gserviceaccount.com",
+  "client_id": "105234388774729645328",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendar-reminder%40telegram-bot-calendar-362513.iam.gserviceaccount.com"
+}
